@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l:dependencies xmlns:l='licenses' groupId='org.jenkins-ci.plugins' artifactId='aqua-microscanner' version='1.0.8'><l:dependency name='Aqua MicroScanner' groupId='org.jenkins-ci.plugins' artifactId='aqua-microscanner' version='1.0.8' url='https://wiki.jenkins-ci.org/display/JENKINS/Aqua+MicroScanner+Plugin'><l:description>Enables scanning of docker build for OS package vulnerabilities.</l:description><l:license name='Apache License, Version 2.0' url='https://www.apache.org/licenses/LICENSE-2.0.txt'/></l:dependency></l:dependencies>

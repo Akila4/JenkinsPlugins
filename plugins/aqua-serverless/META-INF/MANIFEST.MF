@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: root
+Build-Jdk: 1.7.0_181
+Extension-Name: aqua-serverless
+Specification-Title: Scans Serverless functions for vulnerabilities
+Implementation-Title: aqua-serverless
+Implementation-Version: 1.0.6
+Group-Id: org.jenkins-ci.plugins
+Short-Name: aqua-serverless
+Long-Name: Aqua Security Serverless Scanner
+Url: https://wiki.jenkins-ci.org/display/JENKINS/Aqua+Serverless+Plugin
+Plugin-Version: 1.0.6
+Hudson-Version: 1.625.3
+Jenkins-Version: 1.625.3
+Plugin-Dependencies: structs:1.7
+Plugin-Developers: :oranmoshai:oran.moshai@aquasec.com
+

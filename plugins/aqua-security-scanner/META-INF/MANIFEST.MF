@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: ank
+Build-Jdk: 11.0.13
+Extension-Name: aqua-security-scanner
+Specification-Title: Scans Docker images for vulnerabilities
+Implementation-Title: aqua-security-scanner
+Implementation-Version: 3.2.0
+Group-Id: org.jenkins-ci.plugins
+Short-Name: aqua-security-scanner
+Long-Name: Aqua Security Scanner
+Url: https://github.com/jenkinsci/aqua-security-scanner-plugin/blob/ma
+ ster/version.md
+Minimum-Java-Version: 1.8
+Plugin-Version: 3.2.0
+Hudson-Version: 2.222.4
+Jenkins-Version: 2.222.4
+Plugin-Dependencies: structs:1.20
+Plugin-Developers: :oranmoshai:maintainers@aquasec.com
+

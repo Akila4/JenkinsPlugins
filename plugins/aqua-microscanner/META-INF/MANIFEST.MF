@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: root
+Build-Jdk: 1.7.0_181
+Extension-Name: aqua-microscanner
+Specification-Title: Enables scanning of docker build for OS package v
+ ulnerabilities.
+Implementation-Title: aqua-microscanner
+Implementation-Version: 1.0.8
+Group-Id: org.jenkins-ci.plugins
+Short-Name: aqua-microscanner
+Long-Name: Aqua MicroScanner
+Url: https://wiki.jenkins-ci.org/display/JENKINS/Aqua+MicroScanner+Plu
+ gin
+Plugin-Version: 1.0.8
+Hudson-Version: 1.625.3
+Jenkins-Version: 1.625.3
+Plugin-Dependencies: structs:1.7
+Plugin-Developers: :oranmoshai:oran.moshai@aquasec.com
+
